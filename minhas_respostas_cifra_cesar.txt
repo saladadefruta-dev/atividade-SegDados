@@ -1,0 +1,66 @@
+OPERAÇÃO CÓDIGO SECRETO — RESPOSTAS
+Nome: Otavio
+Turma: 205
+Data: 2026-10-19
+
+MISSÃO 1
+Criptografado: UYEP PMRKYEKIQ GVME E IWXVYXYVE HI YQE TEKMRE AIF?
+Chave: 4
+Pergunta: qual linguagem cria a estrutura de uma pagina web?
+Resposta: HTML
+Método: girando a roda até a primeira palavra formar algo legivel
+
+MISSÃO 2
+Criptografado: XBHS SPUNBHNLT KLMPUL JVYLZ L LZAPSVZ KL BTH WHNPUH?
+Chave: 7
+Pergunta: qual linguagem define cores e estilos de uma pagina?
+Resposta: CSS
+Método: tentativa e erro
+
+MISSÃO 3
+Criptografado: ZDJU NMRCXA MN LXMRPX DCRURIJVXB YJAJ YAXPAJVJA?
+Chave: 9
+Pergunta: qual editor de codigo utilizamos para programar?
+Resposta: VScode
+Método: alinhando as letras ate a primeira letra do texto ficar na letra Q
+
+MISSÃO 4
+Criptografado: CGMX Q A ZAYQ PM FQOZUOM PQ FDAOMD XQFDME BAD PQEXAOMYQZFA?
+Chave: 12
+Pergunta: qual e o nome da tecnica de trocar letras por deslocamento?
+Resposta: Cifra de Cesar
+Método: mesmo jeito da anterior
+
+MISSÃO 5
+Criptografado: VZFQ J T STRJ IT HTSOZSYT IJ QJYWFX IJ F F E?
+Chave: 5
+Pergunta: qual e o nome do conjunto de letras de a a z?
+Resposta: Alfabeto
+Método: mesmo jeito da anterior
+
+MISSÃO 6
+Criptografado: IMSD HSDSNJS MKSEGK HSJS HJGLWYWJ G SUWKKG S MES UGFLS?
+Chave: 18
+Pergunta: qual palavra usamos para proteger o acesso a uma conta?
+Resposta: senha
+Método: mesmo jeito da anterior
+
+CAÇA-PALAVRAS — CHAVE 3
+CESAR | Codificado: FHVDU | Início: Linha 4, coluna 8
+CHAVE | Codificado: FKDYH | Início: Linha 2, coluna 9
+DADOS | Codificado: GDGRV | Início: Linha 1, coluna 11
+SENHA | Codificado: VHQKD | Início: Linha 3, coluna 4
+CODIGO | Codificado: FRGLJR | Início: Linha 2, coluna 15
+ALFABETO | Codificado: DOIDEHWR | Início: Linha 7, coluna 8
+SEGURANCA | Codificado: VHJXUDQFD | Início: Linha 14, coluna 6
+MENSAGEM | Codificado: PHQVDJHP | Início: Linha 1, coluna 13
+CRIPTOGRAFIA | Codificado: FULSWRJUDILD | Início: Linha 3, coluna 14
+Palavras encontradas: CESAR, CHAVE, DADOS, SENHA, CODIGO, ALFABETO, SEGURANCA, MENSAGEM, CRIPTOGRAFIA
+Total: 9/9
+
+CRIAÇÃO PRÓPRIA
+Pergunta: O que achou?
+Chave: 2
+Criptografada: O SWG CEJQW?
+Chave do colega: (em branco)
+Pergunta do colega: (em branco)
